@@ -1,6 +1,6 @@
 # E-Commerce Business Intelligence & Operations Dashboard
 
-**Live Interactive Dashboard:** [View on Tableau Public](https://public.tableau.com/app/profile/christian.aler3008/viz/Ecom2_17786582479070/Categories?publish=yes)
+**Live Interactive Dashboard:** [View on Tableau Public]([https://public.tableau.com/app/profile/christian.aler3008/viz/Ecom2_17786582479070/Categories?publish=yes](https://public.tableau.com/app/profile/christian.aler3008/viz/Ecom2_17786582479070/Categories?publish=yes))
 
 ## 📌 Project Overview
 This project is an end-to-end e-commerce performance dashboard designed to shift focus from basic operational reporting to strategic business intelligence. Rather than simply tracking "what happened," this dashboard identifies profit drivers, margin killers, and operational bottlenecks to provide actionable recommendations.
